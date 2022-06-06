@@ -1,0 +1,17 @@
+h1.form {
+    color: palevioletred;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 2rem;
+}
+
+.form-container {
+    margin: 0 2rem;
+}
+
+.form label {
+    margin-top: 0.5rem;
+}

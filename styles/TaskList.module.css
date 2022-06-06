@@ -1,0 +1,22 @@
+.task-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.task-list h1 {
+    color: rgba(14, 62, 250, 0.931);
+    font-size: 2rem;
+}
+
+.task-list p {
+    font-size: 0.8rem;
+}
+
+.task-list h2 {
+    font-size: 0.8rem; 
+}
+
+.task-list-container {
+    margin: 1rem 2rem;
+}
